@@ -1,0 +1,35 @@
+@media only screen and (min-width: 576px) {
+    .wrapper{
+        width: 55.6rem;
+    }
+    .form form .name-details{
+        flex-direction: row;
+    }
+    .form form .name-details .field:last-child{
+        margin-left: 1rem;
+    }
+}
+
+
+@media only screen and (max-width: 480px) {
+    
+    html{
+        font-size: 9.5px;
+    }
+}
+
+
+@media only screen and (max-width: 420px) {
+    
+    html{
+        font-size: 9px;
+    }
+}
+
+
+@media only screen and (max-width: 360px) {
+    
+    html{
+        font-size: 8px;
+    }
+}

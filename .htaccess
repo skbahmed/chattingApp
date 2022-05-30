@@ -1,0 +1,8 @@
+RewriteEngine On
+
+RewriteRule ^signup?$ index.php
+RewriteRule ^login?$ login.php
+RewriteRule ^inbox?$ users.php
+RewriteRule ^profile?$ profile.php
+
+ErrorDocument 404 /error-404.php
