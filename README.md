@@ -1,4 +1,4 @@
-# chattingApp
+# <p align="center"> Live Chat </p>
 <br>
 Used : HTML, CSS, JAVASCRIPT, JQUERY, PHP, AJAX, MYSQL
 <br>
